@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="input_credentials">Please input your username and password to login</string>
+    <string name="input_username">Input username here</string>
+    <string name="input_password">Input password here</string>
+    <string name="login">Login</string>
+    <string name="welcome_user">Welcome to the landing page</string>
+</resources>
