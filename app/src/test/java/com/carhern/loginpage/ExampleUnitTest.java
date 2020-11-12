@@ -28,7 +28,7 @@ public class ExampleUnitTest {
         assertEquals("laptop10", MethodsTest.password("laptop10"));
         assertEquals("start32", MethodsTest.password("start32"));
     }
-    
+
     @Test
     public void intent_factory(){
         assertEquals("baby_yoda_ftw", MethodsTest.factory("baby_yoda_ftw"));
